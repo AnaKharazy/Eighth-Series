@@ -1,0 +1,3 @@
+C:/Users/USER/Desktop/Series Eight2/series eight2/cmake-build-debug-coverage/CMakeFiles/series_eight2.dir
+C:/Users/USER/Desktop/Series Eight2/series eight2/cmake-build-debug-coverage/CMakeFiles/edit_cache.dir
+C:/Users/USER/Desktop/Series Eight2/series eight2/cmake-build-debug-coverage/CMakeFiles/rebuild_cache.dir
